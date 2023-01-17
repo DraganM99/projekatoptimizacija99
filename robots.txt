@@ -1,0 +1,3 @@
+User-agent;*
+Dissalow:/proizvodi/
+sitemap:https://draganm99.github.io/projekatoptimizacija99/sitemap.xml
